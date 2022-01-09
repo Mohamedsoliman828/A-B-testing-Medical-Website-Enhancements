@@ -16,6 +16,6 @@ A/B tests are very commonly performed by data analysts and data scientists. For 
 <br> Part I - Probability
 <br> Part II - A/B Test
 <br> Part III - A regression approach
+<br><br>
 
-
-Check the  <a href='https://github.com/Mohamedsoliman828/AB-Testing-Medical-Website-Enhancements-with-Regression-Analysis/blob/main/Analyze_ab_test_results_notebook.ipynb'> Notebook </a> for detailed description
+### Check the  <a href='https://github.com/Mohamedsoliman828/AB-Testing-Medical-Website-Enhancements-with-Regression-Analysis/blob/main/Analyze_ab_test_results_notebook.ipynb'> Notebook </a> for detailed description
